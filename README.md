@@ -19,7 +19,9 @@ https://kaki104.tistory.com/662
     + Face Detection ~ Face Identification
       - Free : 20 transactions for minute
       - $1.0 for 1000 transactions : 0 – 1M transactions
+
 . OpenCV
+
 . Dlib C++ Library
 
 # OpenCV
