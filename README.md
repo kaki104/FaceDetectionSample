@@ -1,13 +1,13 @@
 # Post
 https://kaki104.tistory.com/662
 
-# Youtu.be
+# Youtube
 - Part 1
   https://youtu.be/wxIFGmG6JCo
 - Part 2
   
 
-#Face Detection API
+# Face Detection API
 . Real-time face recognition with Microsoft Cognitive Services
 . Google
   - Vision API
