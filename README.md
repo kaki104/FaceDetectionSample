@@ -1,14 +1,9 @@
 # Face detecting in UWP app
-
-## Post
+* Post
 https://kaki104.tistory.com/662
-
-## Youtube
-### Part 1
-* https://youtu.be/wxIFGmG6JCo
-### Part 2
-* https://youtu.be/QQimCeWIdps
-  
+* Youtube
+  - Part 1 https://youtu.be/wxIFGmG6JCo
+  - Part 2 https://youtu.be/QQimCeWIdps
 
 # Face Detection API
 . Real-time face recognition with Microsoft Cognitive Services
