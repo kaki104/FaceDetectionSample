@@ -2,9 +2,10 @@
 https://kaki104.tistory.com/662
 
 # Youtube
-- Part 1
-  https://youtu.be/wxIFGmG6JCo
-- Part 2
+### Part 1
+* https://youtu.be/wxIFGmG6JCo
+### Part 2
+* https://youtu.be/QQimCeWIdps
   
 
 # Face Detection API
